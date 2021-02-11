@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/Files/CSDocs/cis580/audio-example-djones321/AudioExample/Content/DeeYan-Key-TheGame.mp3</SourceFile>
+  <SourceTime>2021-02-10T23:20:15.6430303-06:00</SourceTime>
+  <DestFile>F:/Files/CSDocs/cis580/audio-example-djones321/AudioExample/Content/bin/Windows/Content/DeeYan-Key-TheGame.xnb</DestFile>
+  <DestTime>2021-02-10T23:37:32.5731048-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/Files/CSDocs/cis580/audio-example-djones321/AudioExample/Content/bin/Windows/Content/DeeYan-Key-TheGame.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
